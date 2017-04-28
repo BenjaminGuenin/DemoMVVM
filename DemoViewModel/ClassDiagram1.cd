@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DemoViewModel.Modeles.Modele">
+    <Position X="10.75" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEAAAAAAAAAAAEACAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Model\Modele.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoViewModel.RelayCommand">
+    <Position X="10.75" Y="4.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQEACAAQAAECAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\RelayCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DemoViewModel.ViewModels.ViewModelAvecEtat">
+    <Position X="0.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAEhCAAAAAAACAAAAAAAAI=</HashCode>
+      <FileName>ViewModels\ViewModelAvecEtat.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DemoViewModel.ViewModels.ViewModelSansEtat">
+    <Position X="3.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAEACAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\ViewModelSansEtat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoViewModel.ViewModels.ViewModelAvecCmde">
+    <Position X="5.25" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAUAAAAAAAAAAAAACAIAAAACCAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\ViewModelAvecCmde.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoViewModel.ViewModels.ViewModelAvecRelayCmde">
+    <Position X="8" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAUAAAAAAAAAAAAACAIAAAACCAACAAAAAA=</HashCode>
+      <FileName>ViewModels\ViewModelAvecRelayCmde.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoViewModel.ViewModels.ViewModelBase">
+    <Position X="6.75" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\ViewModelBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DemoViewModel.ViewModels.CommandeEnregistrer">
+    <Position X="0.75" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAQQAEAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>ViewModels\CommandeEnregistrer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

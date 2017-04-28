@@ -1,0 +1,19 @@
+﻿<Window x:Class="DemoViewModel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Margin" Value="10" />
+            <Setter Property="Padding" Value="10" />
+            
+        </Style>
+    </Window.Resources>
+    <StackPanel>
+        <Button Name="btnWinForms" Click="btnWinForms_Click">Windows Forms</Button>
+        <Button Name="btnViewModelAvecEtat" Click="btnViewModelAvecEtat_Click">ViewModel avec état</Button>
+        <Button Name="btnViewModelSansEtat" Click="btnViewModelSansEtat_Click">ViewModel sans état</Button>
+        <Button Name="btnViewModelAvecCmde" Click="btnViewModelAvecCmde_Click">ViewModel avec commande</Button>
+        <Button Name="btnViewModelAvecRelayCmde" Click="btnViewModelAvecRelayCmde_Click">ViewModel avec RelayCommand</Button>
+    </StackPanel>
+</Window>
